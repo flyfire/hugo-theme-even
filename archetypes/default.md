@@ -17,8 +17,8 @@ autoCollapseToc: false
 postMetaInFooter: false
 hiddenFromHomePage: false
 # You can also define another contentCopyright. e.g. contentCopyright: "This is another copyright."
-contentCopyright: false
-reward: false
+contentCopyright: true
+reward: true
 mathjax: false
 mathjaxEnableSingleDollar: false
 mathjaxEnableAutoNumber: false
@@ -31,11 +31,11 @@ hideHeaderAndFooter: false
 #enableOutdatedInfoWarning: false
 
 flowchartDiagrams:
-  enable: false
+  enable: true
   options: ""
 
 sequenceDiagrams: 
-  enable: false
+  enable: true
   options: ""
 
 ---
